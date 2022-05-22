@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ghulam Shabbir
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently Python, R, and MATLAB
+- 💞️ I’m looking to collaborate on Freelancer.com, Upwork.com
+- 📫 How to reach me: https://www.freelancer.com/u/gshabbir83
